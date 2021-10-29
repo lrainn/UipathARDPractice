@@ -1,0 +1,13 @@
+Hello, and welcome back!
+
+
+
+Now that we’ve covered the basics of Output actions and methods, let’s see how we can use them to get a text from a Notepad file.
+
+
+
+We already have our UiPath project created so to start, let’s create a new Sequence and name it GetNotepadText.  
+
+
+
+If we navigate to the project folder, we will find a Notepad file containing some text. We want to retrieve this text by using the Get Text activity.  
