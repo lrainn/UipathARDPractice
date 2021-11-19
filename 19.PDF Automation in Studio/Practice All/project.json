@@ -1,7 +1,7 @@
 {
-  "name": "Practice 1   Extract Values Using Anchor Base",
+  "name": "Practice All",
   "description": "使用锚点基本活动从发票中检索日期和开票日期值，然后在消息框中显示每个值。",
-  "main": "Main.xaml",
+  "main": "Practice 1   Extract Values Using Anchor Base.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.2]",
